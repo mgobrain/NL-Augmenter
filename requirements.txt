@@ -1,32 +1,32 @@
-checklist==0.0.11
-spacy==3.0.0
+checklist
+spacy
 numpy
 
 # for back_translation
 torch
 
 # for ReplaceNumericalValues
-num2words==0.5.10
-word2number==1.1
+num2words
+word2number
 
 # for test cases and coverage
-pytest==6.2.4
-pytest-cov==2.12.1
+pytest
+pytest-cov
 
 # for evaluation
-datasets==1.7.0
-transformers==4.6.1
-sacrebleu==1.5.1
-seqeval==1.2.2
+datasets
+transformers
+sacrebleu
+seqeval
 
 # for utility
 tqdm
 
 # Google colab 2nd example
-sentencepiece==0.1.95
+sentencepiece
 
 # for code format
-black==21.5b2
-pre-commit==2.13.0
-flake8==3.9.2
-isort==5.9.1
+black
+pre-commit
+flake8
+isort
